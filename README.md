@@ -1,5 +1,5 @@
 //Español:
-Hola, soy Joseangel. Sí llegaste aquí desde mi portafolio es para que revises mi trabajo. Esta es un app sencilla que cree para ayudar a una persona a completar un a rutinas de ejercicos rápida y en casa. 
+Hola, soy Joseangel. Sí llegaste aquí desde mi portafolio es para que revises mi trabajo. Esta es un app sencilla que cree para ayudar a una persona a completar un a rutinas de ejercicios rápida y en casa. 
 Cuenta con unas funcionalidades extra como una calculadora de Indice de Masa Corporal (BMI), así como un historial que registra todas las rutinas que has completado con fecha y hora.
 Te pido que descargues la app para que puedas evaluar realmente mi trabajo.
 Para descargarla tienes que descargar este repositorio y ejecutarlo en tu Android Studio. 
